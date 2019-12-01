@@ -1,4 +1,4 @@
-# LiBSizing-Desktop-Tool-Public
+# LiBSizing-Desktop-Tool-Public Installer
 ____
 ### LiB Sizing Model Info
 
@@ -16,7 +16,7 @@ To download the application you must be authorized. Ask for permissions from the
 **v_1.0**
 * [Download Installer Windows](https://drive.google.com/file/d/1QuvIPV27RiGDs_m5ZYZoJKNYXmLh26NM/view?usp=sharing)
 
-# LiBSizing-Desktop-Tool
+# LiBSizing-Desktop-Tool-Public Source Code
 ___
 
 <h2> Installation </h2>
