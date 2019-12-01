@@ -18,6 +18,9 @@ To download the application you must be authorized. Ask for permissions from the
 
 # LiBSizing-Desktop-Tool-Public Source Code
 ___
+Source Code : [Code](https://github.com/diegotorres1/LiBSizing-Desktop-Tool)
+* This is a private repository *
+
 
 <h2> Installation </h2>
 <div style = "padding : 20px;background-color : lightgrey">
