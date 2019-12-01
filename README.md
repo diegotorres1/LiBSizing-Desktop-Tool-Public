@@ -25,7 +25,7 @@ Source Code : [Code](https://github.com/diegotorres1/LiBSizing-Desktop-Tool)
 <h2> Installation </h2>
 <div style = "padding : 20px;background-color : lightgrey">
 <h4> Step 1 </h4>
-LiBSizingModel Desktop Tool runs on Python 3.6 > . There are multiple options for the installation of Python. It is recommended to create a virtual environment for the dependencies that you will be installing.
+LiBSizingModel Desktop Tool runs on Python 3.6 > . There are multiple options for the installation of Python. It is recommended to create a virtual environment for the dependencies that you will be installing. Git clone the repository and change to the working directory to the cloned folder.
 <h4> Step 2 </h4>
 If a virtual environment is created activate it.
 <h4> Step 3 </h4>
