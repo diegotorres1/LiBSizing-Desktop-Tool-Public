@@ -34,6 +34,7 @@ cd LiBSizing-Desktop-Tool
 ### Step 2
 In this example I will be using Anaconda, a simple package management system, to create an environment to work in. Enviroments are used to isolate libraries and other resources used within a project, from other projects that you develop that choose to use different libraries and resources.
 * Install [Anaconda](https://www.anaconda.com/distribution/#windows). Download the latest Python Version number.
+* Open the Anaconda Prompt. All further *Steps* will be ran in the prompt.
 * Create a new environment and activate it.
 ```shell
 conda create --name libsizingtool python=3.6.9
