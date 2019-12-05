@@ -16,7 +16,7 @@ To download the application you must be authorized. Ask for permissions from the
 **v_1.0**
 * [Download Installer Windows](https://drive.google.com/file/d/1QuvIPV27RiGDs_m5ZYZoJKNYXmLh26NM/view?usp=sharing)
 
-# LiBSizing-Desktop-Tool-Public Source Code
+# LiBSizing-Desktop-Tool Source Code
 ___
 Source Code : [Code](https://github.com/diegotorres1/LiBSizing-Desktop-Tool)
 * This is a private repository *
@@ -58,7 +58,7 @@ The application now has access to all of the dependencies. Run the application b
 ### Current Version
 [1.01]("https://drive.google.com/file/d/1NYo_DqvScYdLnHOCMLmxzt9Fdit6XFaQ/view?usp=sharing")
 ### Previous Version
-</div>
+
 
 <h2> How to Use </h2>
 <div style = "padding : 20px;background-color : lightgrey">
