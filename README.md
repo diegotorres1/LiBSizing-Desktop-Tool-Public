@@ -22,19 +22,33 @@ Source Code : [Code](https://github.com/diegotorres1/LiBSizing-Desktop-Tool)
 * This is a private repository *
 
 
-<h2> Installation </h2>
-<div style = "padding : 20px;background-color : lightgrey">
-<h4> Step 1 </h4>
-LiBSizingModel Desktop Tool runs on Python 3.6 > . There are multiple options for the installation of Python. It is recommended to create a virtual environment for the dependencies that you will be installing. Git clone the repository and change to the working directory to the cloned folder.
-<h4> Step 2 </h4>
-If a virtual environment is created activate it.
-<h4> Step 3 </h4>
-Run <pre><code>pip install -r requirements.txt </code></pre> in your shell.
-<h4> Step 4 </h4>
-To run the application. In your shell type .
-<pre>python main.py</pre>
+## Installation
+### Preface
+LiBSizingModel Desktop Tool runs on Python 3.6 > . There are multiple options for the installation of Python. It is recommended to create a virtual environment for the dependencies that you will be installing. 
+### Step 1 
+Git clone the repository and change (cd) to the working directory to the cloned folder.
+```shell
+git clone https://github.com/diegotorres1/LiBSizing-Desktop-Tool.git
+cd LiBSizing-Desktop-Tool
+```
+### Step 2
+In this example I will be using Anaconda, a simple package management system, to create an environment to work in. Enviroments are used to isolate libraries and other resources used within a project, from other projects that you develop that choose to use different libraries and resources.
+* Install [Anaconda](https://www.anaconda.com/distribution/#windows). Download the latest Python Version number.
+* Create a new environment and activate it.
 
-</div>
+### Step 2
+If a virtual environment is created activate it.
+### Step 3
+Run 
+```shell
+  pip install -r requirements.txt </code></pre> in your shell.
+```
+### Step 4
+To run the application. In your shell type .
+```code
+  python main.py
+```
+
 
 <h2> Downloadable Versions </h2>
 <div style = "padding : 20px;background-color : lightgrey">
