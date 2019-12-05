@@ -35,27 +35,28 @@ cd LiBSizing-Desktop-Tool
 In this example I will be using Anaconda, a simple package management system, to create an environment to work in. Enviroments are used to isolate libraries and other resources used within a project, from other projects that you develop that choose to use different libraries and resources.
 * Install [Anaconda](https://www.anaconda.com/distribution/#windows). Download the latest Python Version number.
 * Create a new environment and activate it.
-
-### Step 2
-If a virtual environment is created activate it.
-### Step 3
-Run 
 ```shell
-  pip install -r requirements.txt </code></pre> in your shell.
+conda create --name libsizingtool python=3.6.9
+activate libsizingtool
+```
+
+### Step 3
+The requirements.txt file contains the list of dependencies to install. PIP, a package management tool equipped in Anaconda, has an option to auto install all files listed in the requirements.txt file. Run 
+```shell
+  pip install -r requirements.txt
 ```
 ### Step 4
-To run the application. In your shell type .
+The application now has access to all of the dependencies. Run the application by running the main.py.
 ```code
   python main.py
 ```
 
 
-<h2> Downloadable Versions </h2>
-<div style = "padding : 20px;background-color : lightgrey">
-<h4> Current Version </h4>
-* <a href = "https://drive.google.com/file/d/1NYo_DqvScYdLnHOCMLmxzt9Fdit6XFaQ/view?usp=sharing">1.10</a>
-<h4> Previous Versions </h4>
-* 1.10
+## Downloadable Versions 
+*The downloadable versions contain stable, yet incomplete versions of the tool. It is recommended that you clone the repository.*
+### Current Version
+[1.01]("https://drive.google.com/file/d/1NYo_DqvScYdLnHOCMLmxzt9Fdit6XFaQ/view?usp=sharing")
+### Previous Version
 </div>
 
 <h2> How to Use </h2>
