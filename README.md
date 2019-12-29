@@ -61,6 +61,6 @@ The application now has access to all of the dependencies. Run the application b
 
 
 <h2> How to Use </h2>
-<div style = "padding : 20px;background-color : lightgrey">
 
-</div>
+<h2> How the Code Works (Overview).</h2>
+* [LiBSizing Desktop App Code Documentation](https://docs.google.com/document/d/1cyXd1JR5woGf3R2D_Wbo2L6VVybvxdE-Te5lBYCdhuE/edit?usp=sharing)
